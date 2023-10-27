@@ -33,14 +33,15 @@ header .container:before{
 	height: 100%;
 	vertical-align:	middle;
 }
-
 .container-img{
-	width: 40%;
-	height: 400px;
-	margin-top: 10px;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-left: 480px;
+	width: 30vw;
+	max-height: 25vw;
+	margin-top: 2vw;
+	margin-left: 4vw;
+}
+
+.container-img img{
+	width: 20vw;
 }
 
 .container{
